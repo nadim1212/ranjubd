@@ -111,7 +111,7 @@
 
 
 
-				<li>
+				<!-- <li>
 					<a class="has-arrow" href="javascript:;">
 						<div class="parent-icon"> <i class="bx bx-donate-blood"></i>
 						</div>
@@ -122,7 +122,7 @@
 						</li>
 						 
 					</ul>
-				</li>
+				</li> -->
 				<li class="menu-label">Customer Order</li>
 				<li>
 					<a class="has-arrow" href="javascript:;">
@@ -146,7 +146,7 @@
 				 
 				 
 				<li>
-					<a href="https://themeforest.net/user/codervent" target="_blank">
+					<a href="http://aliitltd.org/" target="_blank">
 						<div class="parent-icon"><i class="bx bx-support"></i>
 						</div>
 						<div class="menu-title">Support</div>
